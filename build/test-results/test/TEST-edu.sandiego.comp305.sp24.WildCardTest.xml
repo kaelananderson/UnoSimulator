@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="edu.sandiego.comp305.sp24.WildCardTest" tests="5" skipped="0" failures="0" errors="0" timestamp="2024-05-18T18:42:51" hostname="Kaelans-MBP-2.lan" time="1.292">
+  <properties/>
+  <testcase name="testPlayCard()" classname="edu.sandiego.comp305.sp24.WildCardTest" time="1.24"/>
+  <testcase name="testToString()" classname="edu.sandiego.comp305.sp24.WildCardTest" time="0.017"/>
+  <testcase name="testDrawFourBehavior()" classname="edu.sandiego.comp305.sp24.WildCardTest" time="0.004"/>
+  <testcase name="testConstructor()" classname="edu.sandiego.comp305.sp24.WildCardTest" time="0.008"/>
+  <testcase name="testSetColor()" classname="edu.sandiego.comp305.sp24.WildCardTest" time="0.003"/>
+  <system-out><![CDATA[false
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
