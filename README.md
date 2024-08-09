@@ -1,6 +1,6 @@
 # Uno Card Game Simulator
 
-## Porject Description
+## Project Description
 
 The Uno Card Game Simulator is a Java-based implementation of the popular card game Uno. This project simulates the core mechanics of Uno, allowing players to play the game through a command-line interface, in a pass-and-play game style. The game supports up to four players and includes all the classic Uno cards, such as number cards, action cards (Skip, Reverse, Draw 2), and wild cards (Wild, Wild Draw 4).
 
